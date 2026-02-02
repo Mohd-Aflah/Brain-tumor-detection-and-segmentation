@@ -1,6 +1,6 @@
 # 🧠 Brain Tumor Classification and Segmentation using Deep Learning
 
-[![Project Banner](docs/css/segmentation/images/faq.gif)](https://mohd-aflah.github.io/Brain-tumor/)
+[![Project Banner](docs/css/segmentation/images/faq.gif)]([https://mohd-aflah.github.io/Brain-tumor/](https://mohd-aflah.github.io/Brain-tumor-detection-and-segmentation/))
 
 ## *A deep learning-powered system for accurate brain tumor Classification and Segmentation using CNN models.*
 
@@ -8,7 +8,7 @@
 
 ## 🔗 Project Links
 
-- 🌐 **Website Preview:** [View Live](https://mohd-aflah.github.io/Brain-tumor/)
+- 🌐 **Website Preview:** [View Live]([https://mohd-aflah.github.io/Brain-tumor/](https://mohd-aflah.github.io/Brain-tumor-detection-and-segmentation/))
 - 📂 **Full Project Files (Drive):** [Download from Google Drive](https://drive.google.com/drive/folders/1GftzDHprQybcxWCjjNBCZLGDUQwBGNpv)
 - 🧠 **Trained Models (Drive):** [Access Model Files](https://drive.google.com/drive/folders/18HyxbrvuutqVQmk8V8ni9crAtzGx9Eds)
 - 📄 **Published Research Paper:** [Springer Link](https://link.springer.com/)
