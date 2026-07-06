@@ -1,6 +1,6 @@
 # 🧠 Brain Tumor Classification and Segmentation using Deep Learning
 
-[![Project Banner](docs/css/segmentation/images/faq.gif)](https://mohd-aflah.github.io/Brain-tumor/)
+[![Project Banner](docs/css/segmentation/images/faq.gif)](https://mohd-aflah.github.io/Brain-tumor-detection-and-segmentation/)
 
 ## *A deep learning-powered system for accurate brain tumor Classification and Segmentation using CNN models.*
 
@@ -8,10 +8,9 @@
 
 ## 🔗 Project Links
 
-- 🌐 **Website Preview:** [View Live](https://mohd-aflah.github.io/Brain-tumor/)
-- 📂 **Full Project Files (Drive):** [Download from Google Drive](https://drive.google.com/drive/folders/1GftzDHprQybcxWCjjNBCZLGDUQwBGNpv)
+- 🌐 **Website Preview:** [View Live](https://mohd-aflah.github.io/Brain-tumor-detection-and-segmentation/)
 - 🧠 **Trained Models (Drive):** [Access Model Files](https://drive.google.com/drive/folders/18HyxbrvuutqVQmk8V8ni9crAtzGx9Eds)
-- 📄 **Published Research Paper:** [Springer Link](https://link.springer.com/)
+- 📄 **Published Research Paper:** [Springer Link](https://www.atlantis-press.com/proceedings/iccsce-25/126017355)
 
 ---
 
@@ -81,7 +80,7 @@ Brain tumor Classification and Segmentation is a critical task in medical imagin
 ## 👨‍💻 Developers
 
 - **Mohammed Aflah**  
-<a href="https://www.linkedin.com/in/mohammed-aflah">
+<a href="https://www.linkedin.com/in/mohd-aflah">
   <img src="docs/css/Contact%20us/Aflah.jpg" alt="Linkedin" width="120" />
 </a>
 
@@ -121,7 +120,7 @@ Brain tumor Classification and Segmentation is a critical task in medical imagin
 > **Title:** *EfficientNet-Based and YOLO-Driven Brain Tumor Detection and Segmentation.*  
 > **Published in:** Springer  
 > **Authors:** Mohammed Aflah, Minhaj Akavalappil, Mohammed Aseel, Mohammed Jasim A., Najla Musthafa, Dr. Shanid Malayil, Mubeena AK  
-> 📄 **DOI & Link:** [Springer Link](https://link.springer.com/)  
+> 📄 **DOI & Link:** [Springer Link](https://www.atlantis-press.com/proceedings/iccsce-25/126017355)  
 > 🏫 **Affiliation:** Department of Computer Science & Engineering, MEA Engineering College
 
 ---
@@ -139,6 +138,6 @@ All rights reserved. This project is submitted as part of the final academic cap
 
 For queries or collaboration, contact:  
 📧 mohdaflah77@gmail.com  
-🌐 [LinkedIn – Mohammed Aflah](https://www.linkedin.com/in/mohammed-aflah)
+🌐 [LinkedIn – Mohammed Aflah](https://www.linkedin.com/in/mohd-aflah)
 
 ---
